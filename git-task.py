@@ -1,4 +1,4 @@
-def simple_code(x)
+def simple_code(x):
     result = x * 2
     return result
 
